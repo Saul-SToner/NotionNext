@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '务虚笔记',
+  HEO_HERO_TITLE_5: '文学是对抗俗世的武器',
+  HEO_HERO_TITLE_LINK: 'https://www.wangjuexing.com/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -117,10 +117,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '友情推荐',
-  //HEO_SOCIAL_CARD_TITLE_2: '',
-  //HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'loyce030.xyz',
+  HEO_SOCIAL_CARD_TITLE_1: '友情',
+  HEO_SOCIAL_CARD_TITLE_2: '推荐',
+  HEO_SOCIAL_CARD_TITLE_3: '点击浏览',
+  HEO_SOCIAL_CARD_URL: 'https://www.loyce030.xyz/',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
